@@ -1,7 +1,6 @@
 #include <Arduino.h>
 #include <Adafruit_NeoPixel.h>
 
-#define PI 3.142
 #define PIXELS_PIN D5
 #define BTN1 D2
 
